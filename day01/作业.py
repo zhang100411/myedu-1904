@@ -1,5 +1,4 @@
 # 导入模块
-
 from day01 import base_type
 def def1():
     print('def1')
