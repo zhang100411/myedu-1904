@@ -42,7 +42,7 @@ def dict_zhuanhuan():
 # 题;新建一个字典变量，里面有2个键值对，通过key访问一个值，删除一个键值对，添加一个键值对，更改任意一个值，在新建一个字典，将两个合并
 def home_work():
     adict = {'username': "abcd", "password": "1234"}
-    (adict['username'])
+    print(adict['username'])
     adict.pop('username')
     adict ['age'] = 5
     bdict = {"username":"亚索","password":"123456"}
